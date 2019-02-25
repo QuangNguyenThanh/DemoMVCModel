@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [25/Feb/2019:15:15:01 +0700] "GET /index.html HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [25/Feb/2019:15:15:05 +0700] "GET / HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [25/Feb/2019:15:15:13 +0700] "GET /DemoMVCModel HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [25/Feb/2019:15:15:14 +0700] "GET /DemoMVCModel/ HTTP/1.1" 200 178 http-bio-8080-exec-6 615
+0:0:0:0:0:0:0:1 - - [25/Feb/2019:15:15:15 +0700] "POST /DemoMVCModel/ShowListSV HTTP/1.1" 200 872 http-bio-8080-exec-7 109
